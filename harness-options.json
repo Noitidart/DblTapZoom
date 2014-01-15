@@ -1,0 +1,47 @@
+{
+ "enable_e10s": false, 
+ "is-sdk-bundled": true, 
+ "jetpackID": "jid0-DblTapZoom@jetpack", 
+ "loader": "addon-sdk/lib/sdk/loader/cuddlefish.js", 
+ "main": "main", 
+ "mainPath": "dbltapzoom/main", 
+ "manifest": {
+  "dbltapzoom/main": {
+   "docsSHA256": null, 
+   "jsSHA256": "2f21cd2b288c990d6fbcc4a6c6309f505e579cc23664fd53e1cfdf32948b69ab", 
+   "moduleName": "main", 
+   "packageName": "dbltapzoom", 
+   "requirements": {
+    "chrome": "chrome"
+   }, 
+   "sectionName": "lib"
+  }
+ }, 
+ "metadata": {
+  "addon-sdk": {
+   "description": "Add-on development made easy.", 
+   "keywords": [
+    "javascript", 
+    "engine", 
+    "addon", 
+    "extension", 
+    "xulrunner", 
+    "firefox", 
+    "browser"
+   ], 
+   "license": "MPL 2.0", 
+   "name": "addon-sdk"
+  }, 
+  "dbltapzoom": {
+   "author": "Noitidart", 
+   "description": "Gives the double tap zoom functionality from tablet to desktop version. But without gesture, so double clicking will initiate the zoom.", 
+   "main": "main", 
+   "name": "dbltapzoom", 
+   "version": "initial.rev4"
+  }
+ }, 
+ "name": "dbltapzoom", 
+ "sdkVersion": "1.14", 
+ "staticArgs": {}, 
+ "verbose": false
+}
