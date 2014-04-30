@@ -6,7 +6,7 @@
 // @see http://mxr.mozilla.org/mozilla-central/source/js/src/xpconnect/loader/mozJSComponentLoader.cpp
 
 'use strict';
-
+//blah to fix bug#1
 // IMPORTANT: Avoid adding any initialization tasks here, if you need to do
 // something before add-on is loaded consider addon/runner module instead!
 
